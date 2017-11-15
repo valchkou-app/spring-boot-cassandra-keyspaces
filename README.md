@@ -1,1 +1,1 @@
-# spring-boot-cassandra-multisource
+# spring-boot-cassandra-keyspaces
