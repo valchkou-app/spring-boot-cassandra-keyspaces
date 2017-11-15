@@ -1,4 +1,4 @@
-# spring-boot-cassandra-simple
+# spring-boot-cassandra-keyspaces
 
 ## Set Up Instructions
 This project requires access to Cassandra DB. 
