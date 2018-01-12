@@ -1,5 +1,5 @@
 # spring-boot-cassandra-keyspaces
-This project demostrates how to set up configuration to connect to multiple Cassandra Keyspaces/Schemas
+This project demostrates how to set up configuration to connect to multiple Cassandra Keyspaces/Schemas  
 See more samples at  http://valchkou.com/spring-boot-cassandra.html
 
 
