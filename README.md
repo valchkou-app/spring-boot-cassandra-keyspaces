@@ -1,7 +1,10 @@
 # spring-boot-cassandra-keyspaces
+This project demostrates how to set up configuration to connect to multiple Cassandra Keyspaces/Schemas
+See more samples at  http://valchkou.com/spring-boot-cassandra.html
+
 
 ## Set Up Instructions
-This project requires access to Cassandra DB. 
+Project requires access to Cassandra DB. 
 Default is localhost. If you need point to different one you should modify properties resources/application.yaml. 
 
 Script to Create schema and table. 
